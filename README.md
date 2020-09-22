@@ -56,3 +56,6 @@ Prijsgewijs merk je ook duidelijk dat Shopify voor zowel grote als kleine ondern
 Colourpop - Cosmetica
 Gymshark - Fitnesskledij
 Kith - Merkkledij
+
+## Presentatie
+Link naar de presentatie: [https://youtu.be/1hGZEzTrTU0]
